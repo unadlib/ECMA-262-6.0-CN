@@ -1,9 +1,9 @@
 ## Standard ECMA 262 第六版 / 2015 年 6 月
 > ECMAScript®2015 语言规范
 
-- [x] 1. 范围
-- [x] 2. 一致性
-- [x] 3. 引用标准
+- [x] 1. [范围](https://github.com/unadlib/ECMA-262-6.0-CN/blob/master/1.Scope.md)
+- [x] 2. [一致性](https://github.com/unadlib/ECMA-262-6.0-CN/blob/master/2.Conformance.md)
+- [x] 3. [引用标准](https://github.com/unadlib/ECMA-262-6.0-CN/blob/master/3.Normative%20references.md)
 - [ ] 4. 概述
 - [ ] 5. 语法约定
 - [ ] 6. ECMAScript 数据类型与值
